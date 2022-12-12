@@ -5,3 +5,4 @@
 *.out
 *.pdf
 cv.md
+.DS_Store
