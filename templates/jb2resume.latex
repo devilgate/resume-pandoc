@@ -77,7 +77,6 @@ $endif$
 \urlstyle{same}
 
 \begin{document}
-\raggedright 
 
 % Place name at left
 $if(name-color)$
@@ -99,6 +98,7 @@ $if(right-column)$
 \end{minipage}
 $endif$
 
+\raggedright 
 $body$
 
 \end{document}
